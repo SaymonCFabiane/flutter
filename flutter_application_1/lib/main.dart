@@ -15,7 +15,7 @@ void main(){
           mainAxisAlignment: MainAxisAlignment.center,
           children: [
             Text("ola mundo"),
-            Icon(Icons.add)
+            Icon(Icons.add_location_sharp)
           ],),
         )
       )
